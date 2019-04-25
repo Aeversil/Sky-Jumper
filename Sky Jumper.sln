@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sky Jumper", "Sky Jumper.csproj", "{0C9C294E-CB38-7F1A-535C-93A4AFF35EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sky Jumper.Plugins", "Sky Jumper.Plugins.csproj", "{95CA39AE-97A1-21E9-79A5-1C4976628683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sky Jumper.Editor", "Sky Jumper.Editor.csproj", "{FEDE1E59-F99A-7B70-F4B3-FCF58A34A17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C9C294E-CB38-7F1A-535C-93A4AFF35EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9C294E-CB38-7F1A-535C-93A4AFF35EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9C294E-CB38-7F1A-535C-93A4AFF35EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9C294E-CB38-7F1A-535C-93A4AFF35EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CA39AE-97A1-21E9-79A5-1C4976628683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CA39AE-97A1-21E9-79A5-1C4976628683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CA39AE-97A1-21E9-79A5-1C4976628683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CA39AE-97A1-21E9-79A5-1C4976628683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDE1E59-F99A-7B70-F4B3-FCF58A34A17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDE1E59-F99A-7B70-F4B3-FCF58A34A17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDE1E59-F99A-7B70-F4B3-FCF58A34A17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDE1E59-F99A-7B70-F4B3-FCF58A34A17E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
